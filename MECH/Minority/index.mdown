@@ -1,0 +1,63 @@
+======
+TimeTrack
+
+
+
+c=commit
+
+workday tracking 
+`5d8h != a,b - [c2.time - c1.time]; 
+if a > 30 : b - 30 = b`
+workhour difference betwen a and b
+
+
+===========================
+name: Branches :: Idea
+description: 
+Take Idea and Superidea as branch in git repo
+Repo has Branches
+Branches cimmited and isolated
+As branch get pull request to master
+Branch marked as complete
+Branch can be reviewed by anyone who can access to it
+
+Logic: `
+[Master repo]--[New idea]--New branch --[Query to minority]
+New branch--Task complete--Pull to Master--[Query to minority]
+`
+Client from STAGES side can see all branches, workproccess and many more.
+
+======
+Existed project [s] (if e that we using new production plan)
+`
+[P] Brief	|||| [Design]          | Front
+Brief to markdown |PSD leave and | svn=>git 
+_________________ | push them to | or leave
+Lo-fi level mockup| Designers CVS| GIT INIT 
+leave, if they exist |                       | divide to 2 repo front back
+________________   |                       |___________________________
+Info about project  |                       |  Dev Deployment: for front = sinatra app
+Summary                |                      | For back -- Appfog with Mysql cloud hosting
+______________________________________________________________________________
+Deploy [Hosting]
+[DB]
+Production
+git=>ftp -- Hosting
+DB prod dump] Production DB
+`
+_________________
+Hosting status
+Credentials:
+login:password
+
+Hosting changer: 
+DEV 
+-Heoku | Postgres | MySQL
+-Appfog 
+___
+Local ENV
+LAMP but DB in Cloud
+Backup DB to Local
+__________________________________
+Production: Using existed hosting or CHOOSE ANOTHER?
+*[RECOMENDED HOSTING FUNCTION?]*

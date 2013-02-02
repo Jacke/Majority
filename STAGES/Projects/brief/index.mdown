@@ -1,0 +1,8 @@
+name: Brief CVS
+description: 
+For brief Majority create markdown files, they convert to Word layout. All changes in Brief commited to CVS even changes can make in Word file.
+Mdown ="redcarpet"> Word layout => Brief.doc
+Mdown <"redcarpet"= Brief.doc
+
+name: Mockup CVS
+desc: Closely integrated with Brief module, парсинг коммитов у брифа, и наоборот, парсинг коммитов у Mockup

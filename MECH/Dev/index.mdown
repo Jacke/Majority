@@ -1,0 +1,86 @@
+name: Review Front-end by Design&Tech | Mech
+description: Обеспечить возможность обзора через функциональность наподобии Issues. Для отдельного Issues будут создаваться атрибуты [] design, [] tech
+flow: Issue.create => Push.Issue to IM directly to [t] or [d] for reviewing, then issue wait for request, after review complete Issue.Push.Back, then [f] make correction
+and Issue.Closed
+
+name: Week/Daily Report | Mech
+description: [optional function] опредоставить возмоность составления отчета о том, что нужно сделать, и что сделанно.
+Информация береться автоматический из Future list of Cell, и через Отчеты из нижнего уровня(с коммитами и прочей выполненной работой).
+flow: report <=> GithubPull.todo
+report <= commit in Branch [Name]
+Example: 
+Project
+done
+<commit> <branch> <time>
+todo
+<branch> todo OR list.todo + planning.time(базируется на кпд по дефолту, либо ставиться лично)
+
+name: Migrate data from 3-party service | Mech
+description: Предоставить возможность миграции данных с багтрекеров(Багзила, Гитхаба, Локальных версий трекеров) путем добавления возможностей ввода этих данных. Сделать список поддерживаемых приложений для миграции, и по мере востребованности данной функции расширять.
+
+name: Ads & Social bundles
+desc: logic based on test 
+if current exist?
+ GET current_data.json : nil
+ GET changed_data.json
+ current > changed : false
+
+ name: completion_status
+ desc: в основе заверщающего фактора лежит автоматизированные тесты, которые определяются от поставленных значени.
+ Если тест green начит branch переходит в стадию </>
+ Для ADS & Social стадия e_ только для создания. Процесс в s_ более децентрализирован
+
+ name: Decentr on ADS & Social bundles
+ desc: Branch cost increase
+ Branch made more goal-oriented
+ Time cost doesnt change
+ </> cost increase
+ CVS for tht used only formalic, for text data or visual components, they very simplified.
+ Work with API(facebook, vk, twitter, googleplus)+Marketing services(for get information about progress and more(for now only about progress)) closely to bring in/out the data
+
+ name: Agile mode
+ desc: If neccesarly but for optional in dev cycle, studio can select agile mode methodology, that brings 3-party app in work(pivotal tracker) and all of that has
+ absolutely different concept on any level, basicly for Agile manifesto.
+
+
+name: Класификация тестов
+desc: оздание, изменение их, структура и принцип работы следующий:
+1. Front-end
+1.1 file exist?
+1.2 text exist? (parsing text from psd)
+1.3 w3c valid?
+1.4 pages exist?
+1.5 a href for that pages in all pages exist?
+1.6 performance test, speed of loading
+1.7 junk exist?
+2. Back-end
+2.1 testing function or feature
+2.2 performance test(db request, time of call scripts)
+2.3 junk exist?
+___
+Visual rspect creator (????)
+
+
+
+name: Existed CMS in Mech
+desc: Представим что для проекта выбранна какая-либо CMS, система устанавливает последнюю версию из репозитария, с необходимыми плагинами под специальное типовое решение, и поднимает dev ENV
+___
+Studio files host at github organization or in local git server with Majority access to them.
+flow: clone repo of skeleton +
++ clone frameworks & plugin
++ push to dev env
+____
+Plugin: that all can customized by build pack
+
+
+
+name: Dev ENV on Mech
+description: Standartized ENV for each studio:
+- programing languages
+- frameworks
+- specific solutions(that brings with plugin)
+- services 
+____
+Best-practices can be bring by Build pack. It can be specific functions for make dev work easy individually.
+___
+All of that customize by build-pack. Build-pack can used not only with low-high but with low-low[in that case in dev ENV]

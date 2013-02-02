@@ -1,0 +1,56 @@
+Name: BASIC CREATION
+Desctiption: BASIS CREATION - provide choose to best service that bein using today, and they perfectly work with Majority. 
+They have much company expirience and big features. But choice of that service bring only individual, based on Studio attributes.
+Also in that shit, have packs or waves based on best practices of world company.
+
+- VoIP
+- Accounting 
+- Advertising
+- Billing & invoicing
+- Contact Managmnet
+- CRM 
+- eCommerce
+- Email Marketing
+- Event Managment
+- Payment Gateway
+- Point of Sale
+- Shipping, Logistics, Inventory managment
+- TeamJob and Project Managment
+
+Resellers in your area
+Calculator of выгодности
+Паки от одной компании производителя(example 37signals)
+Бюрократические локальные справки(как избежать и каким сервисом, хинты советы, что куда и как(небольшая база знаний))
+Узконаправленные для определенных сфер(штука предзназначенная для разработки не будет использоватся в сфере рекламы.)
+Советы по уменьшению затрат на средний уровень, аудит производительности тех, или иных пордуктов. Их изьянов, советы по улучшению инфраструктуры на среднем уровне.
+
+Parthnership on BASIS LEVEL
+First we use most popular service, that are using thousand company, and has greate API.
+Так мы сможем охватить большую аудиторию, прибыль у них и так есть, чуть-чуть поделятся.
+Это будут продукты первых волн, мы исключаем проприетарную хуйню вроде 1C, BITRIX, мы самые главные конкуренты их. Полная противоположенность.
+Мегаплан — наш друг, будем выбивать партнерство с ним, и с консалнитговыми компаниями поставляющие западные CRM в Россию.
+
+Пользователь может выбрать OpenSource solution, и переделанную версию для интеграции с Majority мы предоставляем также. Без дополнительной надбавки. Круглосуточная поддержка. 
+
+Модульность,  возможность взаимодействие с каждым объектом BASIS из Majority
+________+
+|	|	
+|	|
+|	|
+|	|
+|	|
+|__CRM|
+________+
+|	   |	
+|	   |
+|	   |
+|	   |
+|	   |
+|SUPPORT|
+
+name: Studio Website in Basis
+desc:
+|=|    <-       |[] [**] [**]| 
+-INFO ABOUT SITE, TECH
+-portfolio
+-bringint basis, stage, mech object to site

@@ -1,0 +1,33 @@
+Low level: 
+-tech env
+- tech_automatization
+- develompent itself
+- cells=>developers
+- process (cycle)
+- agile support (optional)
+- Minority (slice of Majority with only MECH MODULE)
+- Outsource cells 
+- Wide choice ENV, modular, changeable
+___________________________
+
+name: Addons for Pass
+description: 
+- workers cell integration(permissions, track all they doing, and how app respond, like errors etc)
+- ???
+
+name: Mech object
+Description: Creating mech object(ussualy that a service for studio development(like github enterprise))
+Flow: Object requested -- Redirect to object settings -- object auth by API key --- API key entered -- Object added / Also may request to unsupported object (we can provide support to them later or not)
+
+name: Hubot
+description: Hubot integration can turn in setting on left side of Basis
+Hubot wide solution for make bot automatization in Studio. In open-source and actively enchanced.
+
+name: MECH BUILDPACK
+description: It is pack for launch somethind with data that comes bellow from Mech to Stages through Basis
+flow: 
+******
+_____
+|\*/  |
+|*****|
+|/|\_|
