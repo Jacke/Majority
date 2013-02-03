@@ -1,0 +1,5 @@
+name: Convert old project to Majority
+desc: If company has existed project -- make a convertation
+All data to Majority Base
+flow: 
+Pr_old[svn->git, data, services(ga.js, metrics.js...), domain] transef to _s [with renew or leave old paramers like hosting, dns for domains..etc]

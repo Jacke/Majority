@@ -1,0 +1,9 @@
+name: After_stage
+desc: Method that provide many trigers after site was completed.
+- mail
+- repo
+- social
+- transfer and _e other bundle
+- sms
+- custom task for exec url (GET, POST request)
+- customize thrghou buildpack

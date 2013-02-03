@@ -1,0 +1,30 @@
+Name: local studio ENV (how works, sync and etc...)
+desc: 
+[pic1]
+_
+name: Local version
+Mirror of Majority version with small function, but still can work by Synchronization.
+sync.date > sync.date
+changes.list push change.post
+same logic with OFFLINE MODE e.t. 
+all changes doing outside main app will save, and when connection establishing they pushed to Majority 
+Local avaliable only by year subscription.
+All of Main version will be synced:
+- Sync data from stages
+- Sync data from CRM for Local view
+- Mech Local ENV Copy
+
+
+Name: Security_local version
+Desc: Major function from local version was been deleted, and they avaliable only with main version. But studio can access to all data, even if connection offline, and make changes to them. As sync complete, that changes automaticly pushes to Main version of Majority.
+flow: 
+MajorFunctRequest *_______*API:KEY<=>[LocalSyncFunct]
+"================"
+KeyExpir
+Delete source and create dump of data.
+
+name: Chief tool for automatization
+desc: 
+2 ENV: local, cloud
+all of them have receipt for fast deploy project, service, workflow, necesarly for agency work.
+also can deploy Object in Basis, or Basis object in Stages, Mech

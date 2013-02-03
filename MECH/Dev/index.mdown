@@ -40,7 +40,16 @@ if current exist?
 
  name: Agile mode
  desc: If neccesarly but for optional in dev cycle, studio can select agile mode methodology, that brings 3-party app in work(pivotal tracker) and all of that has
- absolutely different concept on any level, basicly for Agile manifesto.
+ absolutely different concept on any level, basicly for Agile manifesto. Гибкий цикл разработки предназначен для особых проектов.
+ Отличия: 
+ - Длительность
+ - User stories
+ - Track userstories in app like PivotalTracker
+ - TDD or CI
+ ____
+ Итерационный способ работы обязателен(тоесть итерационная оплата)
+ Итерация проходит 1-2 недели, постоянно вплоть до конца.
+ Нежелательно изменение людей, которые работают над проектом вплоть до его конца.
 
 
 name: Класификация тестов

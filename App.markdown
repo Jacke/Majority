@@ -19,6 +19,16 @@ Geography:
 1. Russia
 2. USA
 
+Stages: Stage is status of project, divide to 3 part:
+_e — When project first create, hard development
+_s — When project created, support them
+_s[r] — Restavration of old project, also may be just _e stage
+_w — When main project is still in waiting list, free landing page with contacts.
+
+
+
+
+
 _____
 Сотрудники которые продаются(цена зависит от их ранга)
 
@@ -101,3 +111,17 @@ Trashy feed dont be there.
 
 name: Future step
 description: We provide service that engadge Basis object in Stage, also it may be integrated with solution that studio developed(sync their accouncy system with e-shop site)
+
+name: Profit Resource Planing A/B in | Stages and Mech
+desc: Вычисление наиболее рациональной структуры для ресурсов студии на Высоком и Низком уровне, индивидуально под объект.
+1. Mech
+- вычисление способностей Cell(например их kpd)
+- вычисление наиболее продуктивной инфраструктуры
+- вычисление аппаратной части нацеленную на удобную и продуктивную работу
+- вычисление наиболее удобного взаимодействия внутри Cells
+- вычисление оптимального ENV для студии, tools & services
+2. Stages 
+- лучшение способов взаимодействия с клиентом (A/B testing)
+- наиболее лучший способ представлять нижний уровень
+flow: *-[Element]-params[param1, param2, param3] => params.higher
+

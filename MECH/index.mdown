@@ -31,3 +31,15 @@ _____
 |\*/  |
 |*****|
 |/|\_|
+
+
+name: Code Rewiew for Quality Asistant(project lead)
+desc: 
+- Module provide I/O comunication with client, immediate feedback, that became detailed task
+- Feedback from Client has strong requiment rules, must be overall and simple.
+- Small fixes - that low task for correction something and they ussualy free, but it may also have extra price in dev time.
+___
+Brief creation work closely with that module
+
+name: Hosting any app itself on _s, _e
+desc: Автоматизирует процесс подбора хостинга, для необходимых задач от клиента(нагрузки и прочее) для Production ENV. Также вместе с хостингом создает Mail-env для Клиента на основе его нужд(от GAPPs, до Ya.domains mail)

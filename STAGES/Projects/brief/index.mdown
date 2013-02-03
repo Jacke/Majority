@@ -6,3 +6,13 @@ Mdown <"redcarpet"= Brief.doc
 
 name: Mockup CVS
 desc: Closely integrated with Brief module, парсинг коммитов у брифа, и наоборот, парсинг коммитов у Mockup
+
+name: TZ or Brief
+desc:
+Brief has specific form and elements. Standart elements is importand and must be filled. Brief has optional elements, they are closely describe project peednes, like design, functionalyti, markup, spirit of project, etc...
+Brief will create by research few existed brief from big web-agency. Brief created by client and enchanche by manager, or just by manager on client expectation(example by Phone). Brief service can individualy changed by agency or used by 3-party service through brief. All brief make in Mdown format, and can easily export/import in/from Word. 
+Базовый бриф: 
+- отдельное внимание деталям функциональности, задачам
+Обработка базового брифа в правильную форму
+Lo_fi mockup
+Макет который возможно потрогать, обсудить с клиентом, для дальнейшего перепроектирование, вплоть до утверждения. Признание _e и вывод на разработку.

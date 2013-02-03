@@ -54,3 +54,7 @@ desc:
 -INFO ABOUT SITE, TECH
 -portfolio
 -bringint basis, stage, mech object to site
+
+name: Enroll program(good service to Basis) | Basis
+desc: In start Basis have a small collection of services, they divided by Waves, and collect in Waves file in that dir.
+They may be not awesome and scallable for studio needs, and we provide program, that give other Services that pass our requiments promoted in Basis Section. Enroll cost 200$ per year and we work toghether, to build awesome expirience. We can decline studio wishes for atract other service to Enrollment program.

@@ -1,2 +1,21 @@
+name: New workers
+desc: Пример алгоритма при создании нового сотрудника
+logic: request.newworker -> e-mail creation -> majority.new_worker -> Start course -> Знакомство с системой, компанией, клиентами
+___
+Также настройка ENV для нового workers
+
 name: Change element in cells
 description: Замена элементов в ячейки, при нетрутоспособности одного элемента. Он не может справиться с задачей, и для того, чтобы не срывать срок, система выделяет другой элемент в качестве временного(temp cell element). В последствии он может стать постоянным.
+
+name: Workers
+Description: Show detail info about cells, provide creation of cells, give rank to cells, outsource support(outside Basis)
+Cell: 
+- C:
+-- social profile compair
+-- life thoughts
+-- skills, age, abillity
+- R: 
+-- kpd of cell
+-- projects
+-- income to studio
+У каждой Cells своя история, клиент может выбирать Cell

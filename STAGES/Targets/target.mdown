@@ -1,0 +1,14 @@
+name: Target module 
+desc:
+Target module provide list of potential client, ex-client. That module help sales manager find and engadge client, and sent them invitation. That module keep company of any town and get Agency info about most compare to them, based on their last client and by selected option. All info show at Map, or on the list.
+That module brings skype integration. Module plans all calls, manager can define loyalty client to agency. It bring how client will show in list.
+Module send Special offers and campaning to potential client. 
+Company in Target module have various params, most important of them:
+- loyalty
+- price they can give(max price)
+- audience
+- size of company
+- type of business
+- market keywords
+____
+Also in module have ex-client, with reason why they left. In company prefer, all special offers for back them.

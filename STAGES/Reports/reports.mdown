@@ -1,0 +1,5 @@
+name: Reports 
+desc: Reports are weekly service, who include all cells activity, agency and client activity too. Breathe of Company.
+Report generate by app itself. Also import/export/ Word, Excel. Has nice API. Two layer, inner and deep. They has different information. Deep is more complex way to know activity of Agency and Client, even to key of commit.
+___
+Optional can send activity to agency twitter [In our agency done 2 project and client glad. You can view it on ....]
