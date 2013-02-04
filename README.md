@@ -27,7 +27,7 @@ Milestones:
 10. Start in Production
 
 Do not copy of any files, all right reserved.
-
+```
 Table of content
 ├───BASIS
 │   ├───1C
@@ -54,7 +54,7 @@ Table of content
     │   ├───catalog
     │   └───portfolio
     └───Targets
-
+````
 
 Do not copy of any files, all right reserved.
 !!!TOP SECRET!!!
